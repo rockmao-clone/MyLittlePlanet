@@ -12,5 +12,5 @@
 - Delicious oyakodon in the heart of Ginza.
 
 ## Notes
-- Expect a wait during peak hours.
+- No reservation. Expect a wait during peak hours.
 - Cash only.
