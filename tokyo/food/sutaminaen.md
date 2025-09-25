@@ -1,4 +1,4 @@
-# Sutaminaen
+# Sutaminaen (スタミナ苑)
 
 ## Basic Info
 - **Address:** 123-0864 Tokyo, Adachi City, Shikahama, 3 Chome-13-4
@@ -6,7 +6,7 @@
 - **Rating:** 4.5 (up to 5)
 - **Tags:** yakiniku
 - **Google Maps:** [View Map](https://maps.app.goo.gl/pBKy2inLsWESAckv5?g_st=ipc)  
-- **URL:** https://maps.google.com/?q=...
+- **URL:** https://sutaminaen.com
 
 ## Highlights
 - Exceptional yakiniku paired with sake, well worth the long wait. 

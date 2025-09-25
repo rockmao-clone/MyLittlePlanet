@@ -1,7 +1,7 @@
 # Bar High Five
 
 ## Basic Info
-- **Address:** 104-0061 Tokyo, Chuo City, Ginza, 5 Chome−4−15 Efflore Ginza5 Bldg, B1F
+- **Address:** 104-0061 Tokyo, Chuo City, Ginza, 5 Chome−4−15, B1F
 - **Price:** $$$ (up to $$$$$)
 - **Rating:** 5 (up to 5)
 - **Tags:** cocktail

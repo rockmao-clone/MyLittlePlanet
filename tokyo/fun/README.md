@@ -1,4 +1,4 @@
 # Fun in Tokyo
 
 ## Places
-*(No records yet — add your first one!)*
+- [109 Cinemas Premium Shinjuku](./109cinemaspremiumshinjuku.md) (cinema)

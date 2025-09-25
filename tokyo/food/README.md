@@ -1,4 +1,5 @@
 # Food in Tokyo
 
 ## Places
-- [Sutaminaen](./sutaminaen.md)
+- [Marukatsu](./marukatsu.md) (oyakodon, 亲子丼)
+- [Sutaminaen](./sutaminaen.md) (yakiniku, 烧肉)
