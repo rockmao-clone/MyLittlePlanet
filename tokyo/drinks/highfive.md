@@ -11,8 +11,9 @@
 ## Highlights
 - There is no menu, every drink is fully customized to your taste.
 - Bamboo and seasonal fruit cocktails are must-tries.
+- Foreigner-friendly: many staff speak multiple languages and can help convey your requests accurately.
 
 ## Notes
 - Smoking not allowed.
 - Reservations generally not accepted.
-- Table charge at 1,000 JPY per person.
+- Limited seating; expect waits during peak hours.
